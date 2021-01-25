@@ -27,7 +27,13 @@ In total, 170 nodes were used in the layers, 2 different activation functions we
 
 - Were you able to achieve the target model performance?
 
-No, target model performance was not achieved. The final optimization ended up with 65%, which was a drop from from the original.
+Initial Attempt
+<img width="565" alt="Initial Attempt" src="https://user-images.githubusercontent.com/68725398/105669808-f94f2980-5ead-11eb-8e33-a5968244ff2a.png">
+
+Final Optimization Attempt
+<img width="567" alt="Final Optimization attempt" src="https://user-images.githubusercontent.com/68725398/105669813-fc4a1a00-5ead-11eb-9790-331de407f65c.png">
+
+Unfortunately no. As shown above, target model performance was not achieved. The final optimization ended up at 65%, which was a drop from from the original.
 
 - What steps did you take to try and increase model performance?
 
